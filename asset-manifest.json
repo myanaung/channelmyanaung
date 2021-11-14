@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/channelmyanaung/static/css/main.3bf5e002.chunk.css",
+    "main.js": "/channelmyanaung/static/js/main.6748fe29.chunk.js",
+    "main.js.map": "/channelmyanaung/static/js/main.6748fe29.chunk.js.map",
+    "runtime-main.js": "/channelmyanaung/static/js/runtime-main.72d63ad5.js",
+    "runtime-main.js.map": "/channelmyanaung/static/js/runtime-main.72d63ad5.js.map",
+    "static/css/2.d8cb5cde.chunk.css": "/channelmyanaung/static/css/2.d8cb5cde.chunk.css",
+    "static/js/2.dfac6b8e.chunk.js": "/channelmyanaung/static/js/2.dfac6b8e.chunk.js",
+    "static/js/2.dfac6b8e.chunk.js.map": "/channelmyanaung/static/js/2.dfac6b8e.chunk.js.map",
+    "static/js/3.735103ed.chunk.js": "/channelmyanaung/static/js/3.735103ed.chunk.js",
+    "static/js/3.735103ed.chunk.js.map": "/channelmyanaung/static/js/3.735103ed.chunk.js.map",
+    "index.html": "/channelmyanaung/index.html",
+    "static/css/2.d8cb5cde.chunk.css.map": "/channelmyanaung/static/css/2.d8cb5cde.chunk.css.map",
+    "static/css/main.3bf5e002.chunk.css.map": "/channelmyanaung/static/css/main.3bf5e002.chunk.css.map",
+    "static/js/2.dfac6b8e.chunk.js.LICENSE.txt": "/channelmyanaung/static/js/2.dfac6b8e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72d63ad5.js",
+    "static/css/2.d8cb5cde.chunk.css",
+    "static/js/2.dfac6b8e.chunk.js",
+    "static/css/main.3bf5e002.chunk.css",
+    "static/js/main.6748fe29.chunk.js"
+  ]
+}
